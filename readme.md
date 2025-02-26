@@ -10,7 +10,7 @@ I'm a passionate student with a keen interest in web development, machine learni
 
 ## 📫 Get in Touch
 <p align="left">
-  <a href="mailto:momed.ali@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:demahomali01@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/momed-ali01/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/momed_ali01"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
@@ -32,8 +32,8 @@ I'm a passionate student with a keen interest in web development, machine learni
 </picture>
 
 ## 🎯 Goals for 2025
-- Contribute more to open-source projects.
 - Learn and master new technologies.
+- Contribute more to open-source projects.
 - Collaborate with other developers on exciting projects.
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any project or just want to say hi! 😊
