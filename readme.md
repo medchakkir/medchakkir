@@ -11,8 +11,8 @@ I'm a passionate student with a keen interest in web development, machine learni
 ## 📫 Get in Touch
 <p align="left">
   <a href="mailto:demahomali01@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/momed-ali01/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/momed_ali01"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/medchakkir/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/medchakkir"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ## 🛠️ Technologies & Tools
@@ -20,15 +20,15 @@ I'm a passionate student with a keen interest in web development, machine learni
 
 ## 📊 GitHub Stats
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=momed-ali01&show_icons=true&hide_rank=true&theme=dark" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api?username=momed-ali01&show_icons=true&hide_rank=true&theme=light" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-stats.vercel.app/api?username=momed-ali01&show_icons=true&hide_rank=true&theme=light" alt="Momed Ali's GitHub stats">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=medchakkir&show_icons=true&hide_rank=true&theme=dark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=medchakkir&show_icons=true&hide_rank=true&theme=light" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api?username=medchakkir&show_icons=true&hide_rank=true&theme=light" alt="Momed Ali's GitHub stats">
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=momed-ali01&layout=compact&theme=dark" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=momed-ali01&layout=compact&theme=light" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momed-ali01&layout=compact&theme=light" alt="Top Languages">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=medchakkir&layout=compact&theme=dark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=medchakkir&layout=compact&theme=light" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medchakkir&layout=compact&theme=light" alt="Top Languages">
 </picture>
 
 ## 🎯 Goals for 2025
