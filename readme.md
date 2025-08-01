@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Ali! 👋</h1>
+<h1 align="center">Hi there, I'm Mohamed Chakkir! 👋</h1>
 
 I'm a passionate student with a keen interest in web development, machine learning, and open-source contributions. Here's a little bit about me and my work:
 
